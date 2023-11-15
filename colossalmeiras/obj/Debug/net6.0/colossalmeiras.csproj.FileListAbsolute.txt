@@ -1,0 +1,14 @@
+C:\Users\pedro\source\repos\colossalmeiras\colossalmeiras\obj\Debug\net6.0\colossalmeiras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\source\repos\colossalmeiras\colossalmeiras\obj\Debug\net6.0\colossalmeiras.AssemblyInfoInputs.cache
+C:\Users\pedro\source\repos\colossalmeiras\colossalmeiras\obj\Debug\net6.0\colossalmeiras.AssemblyInfo.cs
+C:\Users\pedro\source\repos\colossalmeiras\colossalmeiras\obj\Debug\net6.0\colossalmeiras.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\colossalmeiras\colossalmeiras\bin\Debug\net6.0\colossalmeiras.exe
+C:\Users\pedro\source\repos\colossalmeiras\colossalmeiras\bin\Debug\net6.0\colossalmeiras.deps.json
+C:\Users\pedro\source\repos\colossalmeiras\colossalmeiras\bin\Debug\net6.0\colossalmeiras.runtimeconfig.json
+C:\Users\pedro\source\repos\colossalmeiras\colossalmeiras\bin\Debug\net6.0\colossalmeiras.dll
+C:\Users\pedro\source\repos\colossalmeiras\colossalmeiras\bin\Debug\net6.0\colossalmeiras.pdb
+C:\Users\pedro\source\repos\colossalmeiras\colossalmeiras\obj\Debug\net6.0\colossalmeiras.dll
+C:\Users\pedro\source\repos\colossalmeiras\colossalmeiras\obj\Debug\net6.0\refint\colossalmeiras.dll
+C:\Users\pedro\source\repos\colossalmeiras\colossalmeiras\obj\Debug\net6.0\colossalmeiras.pdb
+C:\Users\pedro\source\repos\colossalmeiras\colossalmeiras\obj\Debug\net6.0\colossalmeiras.genruntimeconfig.cache
+C:\Users\pedro\source\repos\colossalmeiras\colossalmeiras\obj\Debug\net6.0\ref\colossalmeiras.dll
